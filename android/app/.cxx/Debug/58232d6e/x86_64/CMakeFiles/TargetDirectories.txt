@@ -1,0 +1,2 @@
+/Volumes/Others/projects/consultingiot-projects/consultingiot_track/android/app/.cxx/Debug/58232d6e/x86_64/CMakeFiles/edit_cache.dir
+/Volumes/Others/projects/consultingiot-projects/consultingiot_track/android/app/.cxx/Debug/58232d6e/x86_64/CMakeFiles/rebuild_cache.dir
